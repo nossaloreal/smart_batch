@@ -7,5 +7,5 @@ to use the app:
 - clone the repository: `git clone https://github.com/nossaloreal/smart_batch/`
 - install requirements: `pip install -r requirements.txt`
 - run the app: `streamlit run app.py`
-
-![Screenshot 2024-10-07 at 15 56 44](https://github.com/user-attachments/assets/3f754dc1-ce79-4588-b443-c5a816c731c3)
+  
+![Screenshot 2024-10-07 at 16 04 16](https://github.com/user-attachments/assets/e64fec48-90ff-4f99-82e7-01f1d5c37295)
